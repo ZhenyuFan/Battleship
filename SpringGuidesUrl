@@ -1,8 +1,11 @@
-Building a RESTful Web Service
-http://spring.io/guides/gs/rest-service/
-
-Building Java Projects with Gradle
-http://spring.io/guides/gs/gradle/
 
 Building Java Projects with Maven
 http://spring.io/guides/gs/maven/
+MAVEN_HOME
+D:\java\apache-maven-3.3.9\bin
+Path
+;%MAVEN_HOME%\bin;
+
+mvn --version
+Building a RESTful Web Service
+http://spring.io/guides/gs/rest-service/
